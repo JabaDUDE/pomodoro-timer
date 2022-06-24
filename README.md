@@ -11,13 +11,10 @@
 - Create a POMODORO Timer
 - Use Bootstrap to create a responsive page
 
-/\*WILL ADD LINKS LATER
-
 ## Links
 
-- Solution URL: [Github Source Code]()
+- Solution URL: [Github Source Code](https://github.com/JabaDUDE/pomodoro-timer)
 - Live Site URL: [Live Site URL]()
-  \*/
 
 ## My Process
 
