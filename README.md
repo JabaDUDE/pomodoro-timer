@@ -25,6 +25,11 @@ styling portion of this project with Bootstrap. The layout is simple and the col
 Bootstrap classes to work so, as of right now, my class in the code are pretty messy. The biggest problem is getting the font size of the counter so it looks bigger and more pleasing
 to look at. This is a problem I will fix later on, as well as adding the javascipt. I wanted to get the layout down first.
 
+# As of 06/25/22
+
+I've added the javascript and all buttons work! I'm extremely proud of this accomplishment because I encountered a problem with getting the clearInterval() to work so I could stop the timer.
+I learned quite a bit about how to use setInterval in conjunction with function calls and anonymous functions.
+
 ### Built With
 
 - Mobile-first workflow
