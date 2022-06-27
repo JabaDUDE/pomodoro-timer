@@ -30,6 +30,10 @@ to look at. This is a problem I will fix later on, as well as adding the javasci
 I've added the javascript and all buttons work! I'm extremely proud of this accomplishment because I encountered a problem with getting the clearInterval() to work so I could stop the timer.
 I learned quite a bit about how to use setInterval in conjunction with function calls and anonymous functions.
 
+# As of 06/27/22
+
+I've been having trouble with responsiveness and viewports when it came to the positioning of the actual time display. Spent the day adding media queries and planning new add-ons.
+
 ### Built With
 
 - Mobile-first workflow
