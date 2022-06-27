@@ -5,7 +5,20 @@
   body {
     background-color: black;
   }
+}
+@media (min-width: 769px) and (max-width: 1440px) {
   #pomodoro-timer {
-    background-color: aquamarine;
+    font-size: 5rem;
+  }
+}
+@media (min-width: 1550px) and (max-width: 2000px) {
+  #pomodoro-timer {
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 2000px) {
+  #pomodoro-timer {
+    margin-top: 70px;
   }
 }
