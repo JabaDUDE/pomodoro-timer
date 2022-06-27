@@ -5,6 +5,7 @@ const POMODORO_TIMER = document.getElementById("pomodoro-timer");
 
 const startingMinutes = 25;
 let time = startingMinutes * 60;
+//you give it the value of null to indicate that the variable will be used later on, but needs to be declared up front
 let timedInterval = null;
 
 START_BUTTON.addEventListener("click", () => {
