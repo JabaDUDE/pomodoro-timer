@@ -1,10 +1,10 @@
 ## Table of Contents
 
--Overview
--Links
--My Process
--Built with
--Continued Development
+- Overview
+- Links
+- My Process
+- Built with
+- Continued Development
 
 ### Overview
 
